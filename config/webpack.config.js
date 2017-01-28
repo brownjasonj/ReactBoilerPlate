@@ -13,7 +13,7 @@ var config = {
       "react-hot-loader/patch",
       "webpack-dev-server/client?http://localhost:3000",
       "webpack/hot/only-dev-server",
-      "./src/app.tsx"],
+      "./src/index.tsx"],
 
   /*
    * The combination of path and filename tells Webpack what name to give to
